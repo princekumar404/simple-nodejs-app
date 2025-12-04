@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        ye tum logo ki apni website hai
+       this is a node js app
         </p>
         <a
           className="App-link"
