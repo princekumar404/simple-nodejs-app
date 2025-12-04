@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-       this is a node js apps
-        </p>
+       this is a kandi brother app
         <a
           className="App-link"
           href="https://reactjs.org"
