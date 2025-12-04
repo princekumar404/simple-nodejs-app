@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
        this is a kandi brother app
+    </p>
         <a
           className="App-link"
           href="https://reactjs.org"
